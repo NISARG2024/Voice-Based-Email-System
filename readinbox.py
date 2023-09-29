@@ -41,7 +41,7 @@ def main():
             creds.refresh(google.auth.transport.requests.Request())
         else:
             flow = google_auth_oauthlib.flow.InstalledAppFlow.from_client_secrets_file(
-                'client_secret_516696085222-ji3dro8iu4gtte873d5hftfqm45dj6gp.apps.googleusercontent.com.json', SCOPES)
+                'client-secret json file', SCOPES)
             creds = flow.run_local_server(port=0)
         # Save the credentials for the next run
         with open('token.pickle', 'wb') as token:
