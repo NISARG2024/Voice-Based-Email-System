@@ -38,8 +38,7 @@ playsound("recipient.mp3")
 recipientm= recognize_speech().replace(" ","")
 recipient = recipientm + "@gmail.com"
 mimeMessage = MIMEMultipart()
-#mimeMessage['to'] = "hmp2628@gmail.com"
-mimeMessage['to'] = recipient
+mimeMessage['to'] = recipient #mimeMessage['to'] = "mail_id of recipient" 
 
 
 # ask for subject
