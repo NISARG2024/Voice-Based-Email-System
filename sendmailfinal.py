@@ -6,7 +6,7 @@ import base64
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 
-CLIENT_SECRET_FILE = 'client_secret_516696085222-ji3dro8iu4gtte873d5hftfqm45dj6gp.apps.googleusercontent.com.json'
+CLIENT_SECRET_FILE = 'client-secret json file'
 API_NAME = 'gmail'
 API_VERSION = 'v1'
 SCOPES = ['https://mail.google.com/']
