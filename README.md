@@ -32,6 +32,4 @@ Join our community to engage in discussions, seek assistance, and collaborate on
 
 Security is a top priority for Verbomail. If you discover any security vulnerabilities, please report them responsibly so we can address them promptly.
 
-## License
-
-This project is currently without a specific license. However, it's recommended to choose an open-source license that aligns with your project's goals and values.
+**Note:** This project does not include a complete application.
