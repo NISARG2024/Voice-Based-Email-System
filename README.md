@@ -32,4 +32,6 @@ Join our community to engage in discussions, seek assistance, and collaborate on
 
 Security is a top priority for Verbomail. If you discover any security vulnerabilities, please report them responsibly so we can address them promptly.
 
+##
+
 **Note:** This project does not include a complete application.
